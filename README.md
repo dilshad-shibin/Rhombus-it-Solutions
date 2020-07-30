@@ -1,5 +1,5 @@
 # Rhombus-it-Solutions
-Static website for Rhombus it solutions
+Static website for Rhombus it solutions enik vere paniyund
 
 Github Link : 
 
