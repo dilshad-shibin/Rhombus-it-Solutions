@@ -1492,6 +1492,9 @@
 /* Tablet Layout: 991px. */
 
 @media only screen and (max-width: 991px) {
+    .about_image_hide{
+        display: none !important;
+    }
     /* sidemenu start */
     .sidemenu {
         display: block !important;
@@ -1577,6 +1580,7 @@
         top: 12px;
     }
     /* sidemenu close */
+    
     .custom-container {
         padding-left: 15px;
         padding-right: 15px;

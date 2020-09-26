@@ -1,10 +1,6 @@
 /*
-Theme Name: 
-Theme URI: 
-Author: 
-Author URI: 
-Description: 
-Version: 1.0.0
+Theme Name: Rhombus IT Solutions
+Author: Ds Company
 */
 
 
@@ -3656,16 +3652,16 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     box-shadow: 0px 12px 18px #F9556D4D;
 }
 
-.riyaqas-pagination ul {
+.rhombus-pagination ul {
     padding-left: 0;
     margin-bottom: 0;
 }
 
-.riyaqas-pagination ul li {
+.rhombus-pagination ul li {
     display: inline-block;
 }
 
-.riyaqas-pagination ul li .page-numbers {
+.rhombus-pagination ul li .page-numbers {
     width: 36px;
     height: 36px;
     border: 1px solid #97A1B3;
@@ -3684,20 +3680,20 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin: 0 3px;
 }
 
-.riyaqas-pagination ul li .page-numbers.prev,
-.riyaqas-pagination ul li .page-numbers.next {
+.rhombus-pagination ul li .page-numbers.prev,
+.rhombus-pagination ul li .page-numbers.next {
     border: none;
 }
 
-.riyaqas-pagination ul li .page-numbers:hover,
-.riyaqas-pagination ul li .page-numbers.current {
+.rhombus-pagination ul li .page-numbers:hover,
+.rhombus-pagination ul li .page-numbers.current {
     background: #01358D;
     color: #fff;
     border: 1px solid #01358D;
 }
 
-.riyaqas-pagination ul li .page-numbers.prev:hover,
-.riyaqas-pagination ul li .page-numbers.next:hover {
+.rhombus-pagination ul li .page-numbers.prev:hover,
+.rhombus-pagination ul li .page-numbers.next:hover {
     background: none;
     color: #01358D;
     border: none;
@@ -4736,7 +4732,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     z-index: -1;
 }
 
-.sbs-what-riyaqas {
+.sbs-what-rhombus {
     background-repeat: no-repeat;
     background-size: 48% 100%;
 }
@@ -4870,7 +4866,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 /********** home 6 ********/
 
-.riyaqas-check-bg {
+.rhombus-check-bg {
     position: absolute;
     z-index: -1;
     margin-top: -80px;
@@ -4878,7 +4874,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin-left: -150px;
 }
 
-.riyaqas-check-bg2 {
+.rhombus-check-bg2 {
     position: absolute;
     z-index: -1;
     margin-top: -199px;
@@ -4967,7 +4963,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin-bottom: 10px;
 }
 
-.comment-form-area .riyaqas-form-wrap .btn {
+.comment-form-area .rhombus-form-wrap .btn {
     padding: 0 30px;
 }
 
@@ -5079,6 +5075,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .footer-area-2 .footer-widget-area {
     padding-top: 70px;
     border-top: 1px solid rgba(151, 161, 179, 0.2);
+    position: relative;
 }
 
 .footer-area-2 .copyright-inner {
@@ -5511,48 +5508,48 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     box-shadow: 0px 2px 69px #97A1B238;
 }
 
-.login-register-popup .riyaqas-form-wrap {
+.login-register-popup .rhombus-form-wrap {
     display: block;
     width: 100%;
     padding: 0 55px;
 }
 
-.login-register-popup .riyaqas-form-wrap .single-input-wrap label {
+.login-register-popup .rhombus-form-wrap .single-input-wrap label {
     line-height: unset;
 }
 
-.login-register-popup .riyaqas-form-wrap .widget-title {
+.login-register-popup .rhombus-form-wrap .widget-title {
     font-size: 20px;
 }
 
-.login-register-popup .riyaqas-form-wrap span,
-.login-register-popup .riyaqas-form-wrap label {
+.login-register-popup .rhombus-form-wrap span,
+.login-register-popup .rhombus-form-wrap label {
     font-size: 12px;
     color: #97A1B3;
     letter-spacing: 0.24px;
 }
 
-.login-register-popup .riyaqas-form-wrap .check-box-area {
+.login-register-popup .rhombus-form-wrap .check-box-area {
     overflow: hidden;
 }
 
-.login-register-popup .riyaqas-form-wrap .check-box-area input {
+.login-register-popup .rhombus-form-wrap .check-box-area input {
     margin-right: 5px;
     float: left;
 }
 
-.login-register-popup .riyaqas-form-wrap .check-box-area label {
+.login-register-popup .rhombus-form-wrap .check-box-area label {
     margin-bottom: 0;
     margin-top: -3px;
     float: left;
 }
 
-.login-register-popup .riyaqas-form-wrap .btn-wrap {
+.login-register-popup .rhombus-form-wrap .btn-wrap {
     line-height: 41px;
     margin-top: 30px;
 }
 
-.login-register-popup .riyaqas-form-wrap .btn-wrap .btn {
+.login-register-popup .rhombus-form-wrap .btn-wrap .btn {
     height: 40px;
     line-height: 41px;
     padding: 0 30px;
@@ -5561,7 +5558,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin-right: 15px;
 }
 
-.login-register-popup .riyaqas-form-wrap .btn-wrap a.signup {
+.login-register-popup .rhombus-form-wrap .btn-wrap a.signup {
     color: #01358D;
     font-size: 12px;
     border-bottom: 1px solid #01358D;
@@ -6013,15 +6010,15 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     max-width: 80%;
 }
 
-.riyaqas-check-list {
+.rhombus-check-list {
     margin-bottom: 25px;
 }
 
-.riyaqas-check-list img {
+.rhombus-check-list img {
     margin-right: 18px;
 }
 
-.riyaqas-check-list span {
+.rhombus-check-list span {
     letter-spacing: 0.34px;
     color: #5B6880;
     font-size: 17px;
@@ -6161,28 +6158,28 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   ## list
 ----------------------------------------*/
 
-.riyaqas-check-list {
+.rhombus-check-list {
     margin-bottom: 20px;
 }
 
-.riyaqas-check-list img {
+.rhombus-check-list img {
     margin-right: 17px;
 }
 
-.riyaqas-check-list span {
+.rhombus-check-list span {
     letter-spacing: 0.34px;
     color: #5B6880;
     font-size: var(--body-font-size);
     line-height: 24px;
 }
 
-.riyaqas-check-list.style-two {
+.rhombus-check-list.style-two {
     margin-bottom: 3px;
     list-style: none;
     position: relative;
 }
 
-.riyaqas-check-list.style-two:after {
+.rhombus-check-list.style-two:after {
     content: '';
     position: absolute;
     height: 6px;
@@ -6240,11 +6237,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     display: none;
 }
 
-.riyaqas-list-2 {
+.rhombus-list-2 {
     padding-left: 0 !important;
 }
 
-.riyaqas-list-2 li {
+.rhombus-list-2 li {
     -webkit-box-shadow: 0px 5px 22px #01358D2E;
     box-shadow: 0px 5px 22px #01358D2E;
     height: 100px;
@@ -6261,35 +6258,35 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     transition: all 0.3s ease-in;
 }
 
-.riyaqas-list-2 li img {
+.rhombus-list-2 li img {
     -webkit-transition: 0.8s;
     -o-transition: 0.8s;
     transition: 0.8s;
 }
 
-.riyaqas-list-2 li:first-child {
+.rhombus-list-2 li:first-child {
     margin-left: 0;
 }
 
-.riyaqas-list-2 li:last-child {
+.rhombus-list-2 li:last-child {
     margin-right: 0;
 }
 
-.riyaqas-list-2 li:hover {
+.rhombus-list-2 li:hover {
     -webkit-box-shadow: 0px 10px 22px #01358D2E;
     box-shadow: 0px 10px 22px #01358D2E;
 }
 
-.riyaqas-list-2 li:hover img {
+.rhombus-list-2 li:hover img {
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
 
-.riyaqas-list-3 {
+.rhombus-list-3 {
     padding-left: 0 !important;
 }
 
-.riyaqas-list-3 li {
+.rhombus-list-3 li {
     list-style: none;
     position: relative;
     font-size: var(--body-font-size);
@@ -6300,7 +6297,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin-bottom: 5px;
 }
 
-.riyaqas-list-3 li:before {
+.rhombus-list-3 li:before {
     content: '';
     position: absolute;
     left: 0;
@@ -6312,11 +6309,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     background: #fff;
 }
 
-.riyaqas-check-list-wrap .riyaqas-check-list {
+.rhombus-check-list-wrap .rhombus-check-list {
     margin-bottom: 10px;
 }
 
-.riyaqas-check-list-wrap .riyaqas-check-list img {
+.rhombus-check-list-wrap .rhombus-check-list img {
     margin-top: 6px;
 }
 
@@ -6417,11 +6414,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     right: -15px;
 }
 
-.riyaqas-stab .nav-tabs .nav-item:last-child .nav-link {
+.rhombus-stab .nav-tabs .nav-item:last-child .nav-link {
     margin-right: 0;
 }
 
-.riyaqas-stab .nav-tabs .nav-link {
+.rhombus-stab .nav-tabs .nav-link {
     border: 0 !important;
     background: transparent;
     font-size: 18px;
@@ -6433,13 +6430,13 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin: 0 50px 0 10px;
 }
 
-.riyaqas-stab .nav-tabs .nav-link:hover,
-.riyaqas-stab .nav-tabs .nav-link.active {
+.rhombus-stab .nav-tabs .nav-link:hover,
+.rhombus-stab .nav-tabs .nav-link.active {
     color: var(--main-color-one);
 }
 
-.riyaqas-stab .nav-tabs .nav-link:hover:after,
-.riyaqas-stab .nav-tabs .nav-link.active:after {
+.rhombus-stab .nav-tabs .nav-link:hover:after,
+.rhombus-stab .nav-tabs .nav-link.active:after {
     visibility: visible;
     opacity: 1;
     -webkit-transition: 0.3s;
@@ -6447,7 +6444,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     transition: 0.3s;
 }
 
-.riyaqas-stab .nav-tabs .nav-link:after {
+.rhombus-stab .nav-tabs .nav-link:after {
     content: '';
     position: absolute;
     left: 0;
@@ -6462,7 +6459,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     transition: 0.3s;
 }
 
-.riyaqas-stab .riyaqas-stab-content {
+.rhombus-stab .rhombus-stab-content {
     padding: 35px 0;
 }
 
@@ -7616,7 +7613,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 .single-service img {
     margin-bottom: 42px;
-    width: auto !important;
+    width: 75px !important;
 }
 
 .single-service h6 {
@@ -8697,7 +8694,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     ## All form
 ------------------------------------------*/
 
-.riyaqas-form-wrap .btn {
+.rhombus-form-wrap .btn {
     height: 48px;
     line-height: 48px;
     padding: 0 60px;
@@ -8817,19 +8814,19 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     padding: 0 1px;
 }
 
-.riyaqas-file-input-wrap {
+.rhombus-file-input-wrap {
     margin-top: 10px;
     height: 100%;
 }
 
-.riyaqas-file-input-wrap .riyaqas-file-input {
+.rhombus-file-input-wrap .rhombus-file-input {
     cursor: pointer;
     height: 60px;
     line-height: 60px;
     width: 100%;
 }
 
-.riyaqas-file-input-wrap label {
+.rhombus-file-input-wrap label {
     cursor: pointer;
     border: 0;
     color: #fff;
@@ -8842,7 +8839,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     cursor: cell;
 }
 
-.riyaqas-file-input-wrap label:after {
+.rhombus-file-input-wrap label:after {
     display: none !important;
 }
 
@@ -9058,4 +9055,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 .sidemenu_section {
     display: none;
+}
+
+.logo-rhombus{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 160px;
 }
