@@ -5177,8 +5177,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     background: #fff;
 }
 
-.social-icon li .dribbble:hover {
-    color: #ea4c89;
+.social-icon li .youtube:hover {
+    color: #FF0000;
 }
 
 .social-icon li .facebook:hover {
@@ -5193,8 +5193,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     color: #0077B5;
 }
 
-.social-icon li .pinterest:hover {
-    color: #c8232c;
+.social-icon li .instagram:hover {
+    color: #e95950;
 }
 
 
