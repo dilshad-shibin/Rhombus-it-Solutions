@@ -6085,6 +6085,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     line-height: 62px;
     float: left;
     font-weight: 500;
+    white-space: normal;
 }
 
 .single-accordion .card-header h2 button:after {
