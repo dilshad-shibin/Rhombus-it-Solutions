@@ -310,7 +310,7 @@
                 smartSpeed: 1500,
                 animateOut: 'fadeOut',
                 animateIn: 'fadeIn',
-                navText: ['<img src="assets/img/startup/left.png" alt="arrow">', '<img src="assets/img/startup/right.png" alt="arrow">'],
+                navText: ['<img src="assets/img/left.png" alt="arrow">', '<img src="assets/img/right.png" alt="arrow">'],
             });
         }
 
